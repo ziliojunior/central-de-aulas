@@ -1,3 +1,5 @@
+
+<img src="logo-ifrs-erechim.png" alt="Logo IFRS Erechim" width="180">
 # 🏫 Central de Aulas - Engenharia de Software
 
 Bem-vindos ao repositório central da nossa disciplina! Aqui você encontrará todo o material de apoio, cronograma e links úteis para o semestre.
